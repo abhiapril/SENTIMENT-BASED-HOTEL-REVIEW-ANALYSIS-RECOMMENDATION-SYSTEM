@@ -1,3 +1,0 @@
-USER/Desktop/bleh[[:space:]]bleh[[:space:]]bleh/clean_data.csv filter=lfs diff=lfs merge=lfs -text
-USER/Desktop/bleh[[:space:]]bleh[[:space:]]bleh/hotel_reviews.csv filter=lfs diff=lfs merge=lfs -text
-*.csv[[:space:]] filter=lfs diff=lfs merge=lfs -text
